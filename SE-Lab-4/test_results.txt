@@ -1,0 +1,25 @@
+test_corner_bounding_box_false_positive_is_avoided (test_game.GameTests.test_corner_bounding_box_false_positive_is_avoided) ... ok
+test_edge_overlap_outside_center (test_game.GameTests.test_edge_overlap_outside_center) ... ok
+test_escape_and_mute (test_game.GameTests.test_escape_and_mute) ... ok
+test_fast_pipe_cannot_tunnel (test_game.GameTests.test_fast_pipe_cannot_tunnel) ... ok
+test_flap_and_click_events (test_game.GameTests.test_flap_and_click_events) ... ok
+test_game_over_freezes_and_sound_plays_once (test_game.GameTests.test_game_over_freezes_and_sound_plays_once) ... ok
+test_game_over_space_does_not_flap (test_game.GameTests.test_game_over_space_does_not_flap) ... ok
+test_ground_and_ceiling (test_game.GameTests.test_ground_and_ceiling) ... ok
+test_menu_mouse_start_and_exit (test_game.GameTests.test_menu_mouse_start_and_exit) ... ok
+test_no_audio_device_fallback (test_game.GameTests.test_no_audio_device_fallback) ... ok
+test_regular_spawning_and_cleanup (test_game.GameTests.test_regular_spawning_and_cleanup) ... ok
+test_render_all_states (test_game.GameTests.test_render_all_states) ... ok
+test_replay_resets_every_difficulty (test_game.GameTests.test_replay_resets_every_difficulty) ... ok
+test_safe_gap_and_bottom_overlap (test_game.GameTests.test_safe_gap_and_bottom_overlap) ... ok
+test_score_after_full_clear_once (test_game.GameTests.test_score_after_full_clear_once) ... ok
+test_sound_effects_exist (test_game.GameTests.test_sound_effects_exist) ... ok
+test_tangent_counts_as_collision (test_game.GameTests.test_tangent_counts_as_collision) ... ok
+test_update_with_no_pipes (test_game.GameTests.test_update_with_no_pipes) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.679s
+
+OK
+pygame 2.6.1 (SDL 2.28.4, Python 3.12.14)
+Hello from the pygame community. https://www.pygame.org/contribute.html
