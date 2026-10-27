@@ -40,11 +40,7 @@ The code works, but only just. It has quality, style and security problems of th
 
 6. **Reflect.** Answer the four reflection questions from the handout in `reflection.md`.
 
-## Deliverables
 
-1. `bank_account_system.py`: your cleaned version, with at least 4 issues fixed.
-2. `issues.md`: the completed issue table.
-3. `reflection.md`: your answers to the reflection questions.
 
 **Target:** aim for a Pylint score above 9.5 on your final file. A perfect 10.00/10 is very good.
 
