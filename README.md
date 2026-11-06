@@ -9,5 +9,7 @@ Individual lab submissions for Software Engineering course
 | Lab 3 | [SE-Lab-3](https://github.com/ZOnyxGH/SE-Labs/tree/main/SE-Lab-3) |
 | Lab 4 | [SE-Lab-4](https://github.com/ZOnyxGH/SE-Labs/tree/main/SE-Lab-4) |
 | Lab 5 | [SE-Lab-5](https://github.com/ZOnyxGH/SE-Labs/tree/main/SE-Lab-5) |
+| Lab 6 | [SE-Lab-6](https://github.com/ZOnyxGH/SE-Labs/tree/main/SE-Lab-6) |
+| Lab 7 | [SE-Lab-7](https://github.com/ZOnyxGH/SE-Labs/tree/main/SE-Lab-7) |
 
 Each folder contains the corresponding lab files and submission materials.
